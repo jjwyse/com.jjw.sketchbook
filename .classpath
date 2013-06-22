@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
 		<attributes>
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="/home/jjwyse/workspace/cots/apache-camel-2.10.2/lib/camel-core-2.10.2.jar"/>
 	<classpathentry kind="lib" path="/home/jjwyse/workspace/cots/apache-camel-2.10.2/lib/camel-context-2.10.2.jar"/>
 	<classpathentry kind="lib" path="/home/jjwyse/workspace/cots/spring-framework-3.2.0.RC2/libs/spring-webmvc-portlet-3.2.0.RC2-sources.jar"/>
