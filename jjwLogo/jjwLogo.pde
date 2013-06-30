@@ -4,7 +4,7 @@
   @author jjwyse
  */
 
-/* @pjs preload="/personalwebsite/resources/images/jjwLogo_noBlur_50x50.png"; */
+/* @pjs preload="/jjw/resources/images/jjwLogo_noBlur_50x50.png"; */
 
 // Global variables
 PImage img;
