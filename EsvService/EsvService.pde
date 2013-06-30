@@ -1,6 +1,5 @@
 import java.net.URL;
 import java.net.URLEncoder;
-import java.util.Vector;
 import java.util.Iterator;
 
 HashMap words;
@@ -9,7 +8,7 @@ String []tokens;
 int index;
 PFont a;
 
-Vector fields = new Vector();
+ArrayList<TextField> fields = new ArrayList<TextField>();
 TextField activatedField;
 boolean fieldActive;
 
