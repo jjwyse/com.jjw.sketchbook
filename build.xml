@@ -1,0 +1,7 @@
+<project name="sketchbook build file" basedir="." default="all">
+   <description>
+      This is the build file for the sketchbook sub-component.
+   </description>
+   <property environment="env" />
+
+</project>
